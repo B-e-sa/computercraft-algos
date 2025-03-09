@@ -1,6 +1,6 @@
 --- Timbers an spruce tree and  
 --- plants a new spruce sapling,
---- using charcoal
+--- using charcoal as fuel
 function w_debug(text)
     local f = fs.open("debug.txt", "w")
     f.write(textutils.serialise(text))

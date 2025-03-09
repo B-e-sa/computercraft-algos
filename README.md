@@ -1,1 +1,1 @@
-My main lua algorithms for computer craft turtles and peripherals
+My lua algorithms for computercraft turtles and peripherals
